@@ -29,7 +29,7 @@ DoodleDeck is a fun, interactive drawing and multiplayer guessing game. Players 
 - **Frontend**: FLUTTER FRAMEWORK
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
-- **WebSocket**: For real-time communication
+- **Socket.io**: For real-time communication
 
 ## Installation
 
@@ -38,7 +38,6 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/arpitboss/DoodleDeck.git
-   cd DoodleDeck
 
 2. Install the dependencies
    ```bash
